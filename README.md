@@ -10,7 +10,7 @@ A passionate Data Analyst from Indonesia !!!
 - ❑ Passionate about Data Science, Analytics & Visualization
 - 🌟 Skilled in Data Cleaning, EDA, SQL, Python & BI tools
 - 🌟 Ask me about Data Science, SQL, Tableau, or Machine Learning
-- 🌟 Reach me at [apraharsya@gmail.com](mailto:apraharsya@gmail.com)
+- 🌟 Reach me at [sapikedu@gmail.com](mailto:sapikedu@gmail.com)
 - 🌟 Currently improving Machine Learning & AI skills
 - 🌟 Fun fact: Data + Insights = ⬜️
 
