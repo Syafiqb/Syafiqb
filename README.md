@@ -2,25 +2,25 @@
 
 Hi, I'm Syafiq Basmallah
 
-A passionate [Your Profession/Role] from [Your Location] !!!
+A passionate Data Analyst from Indonesia !!!
 
-**[Your Expertise/Field] | [Your Current Company/Organization]**
+**Data Analytics | Amazon**
 
 ## 🔍 About Me:
-- ❑ Passionate about [Your Interests, e.g., Data Science, Software Development, etc.]
-- 🌟 Skilled in [Your Skills, e.g., Programming, Data Analysis, etc.]
-- 🌟 Ask me about [Topics You're Knowledgeable In, e.g., Web Development, Machine Learning, etc.]
-- 🌟 Reach me at [Your Email Address]
-- 🌟 Currently improving [Skills You're Working On, e.g., AI, Cloud Computing, etc.]
-- 🌟 Fun fact: [A Fun Fact About You]
+- ❑ Passionate about Data Science, Analytics & Visualization
+- 🌟 Skilled in Data Cleaning, EDA, SQL, Python & BI tools
+- 🌟 Ask me about Data Science, SQL, Tableau, or Machine Learning
+- 🌟 Reach me at [apraharsya@gmail.com](mailto:apraharsya@gmail.com)
+- 🌟 Currently improving Machine Learning & AI skills
+- 🌟 Fun fact: Data + Insights = ⬜️
 
 ## Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syafiqb)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/Syafiqb__)
 
-## 🛠️ Tech Stack:
+## 🐀 Tech Stack:
 
-- **[Your Tech Stack, e.g., Python, JavaScript, React, etc.]**
+- **PYTHON** | **SQL** | **POWER BI** | **EXCEL**
 
-Let's [Your Call to Action, e.g., build amazing projects, solve complex problems, etc.]!
+Let's analyze data, find insights, and turn numbers into actionable decisions!
