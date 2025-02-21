@@ -29,5 +29,7 @@ I am a passionate Data Analyst with a keen interest and continuous learning. I e
 - **PYTHON** | **SQL** | **TABLEAU** | **EXCEL**
 
 Let's analyze data, find insights, and turn numbers into actionable decisions!
+
 Feel free to reach out if you have any questions or just want to connect!
+
 Thank you for visiting my profile!
