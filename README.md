@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 I am a passionate Data Analyst with a keen interest and continuous learning. I enjoy working on challenging problems and building innovative solutions.
 
-**Data Analytics | Amazon**
+**Data Analytics**
 
 ## 🔍 About Me:
 - ❑ Passionate about Data Science, Analytics & Visualization
